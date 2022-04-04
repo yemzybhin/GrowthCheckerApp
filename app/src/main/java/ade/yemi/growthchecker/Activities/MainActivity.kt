@@ -32,6 +32,7 @@ import java.util.*
 import kotlin.concurrent.schedule
 
 class MainActivity : AppCompatActivity(), NoteCommunicator{
+    //this is a test
     private var counterr = 0
     private var ungoinchallenge = false
     private val challengesscrollview: CardView by lazy {
